@@ -1,6 +1,6 @@
 ### Hi there 👋 Here is what i working on !
 
-Ff you want to pull leave some of my name for trace
+If you want to pull leave some of my name for trace
 
 Hope you enjoy your life more !
 
