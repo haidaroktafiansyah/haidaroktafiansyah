@@ -1,5 +1,9 @@
 ### Hi there 👋 Here is what i working on !
 
+Ff you want to pull leave some of my name for trace
+
+Hope you enjoy your life more !
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own company :) 
