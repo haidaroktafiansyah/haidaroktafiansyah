@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats <br>
 
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidaroktafiansyah&show_icons=true&locale=en&layout=compact" alt="haidaroktafiansyah" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=haidaroktafiansyah&show_icons=true&locale=en" alt="haidaroktafiansyah" /></div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidaroktafiansyah&show_icons=true&locale=en&layout=compact" alt="haidaroktafiansyah" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=haidaroktafiansyah&show_icons=true&locale=en" alt="haidaroktafiansyah" />
