@@ -5,13 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haidaroktafiansyah" alt="haidaroktafiansyah" /></a> </p>
 
-- 🔭 I’m currently working on **My Own Company**
+<! –– 🔭 I’m currently working on **My Own Company** ––>
 
-- 🌱 I’m currently learning **Android**
-
-- 👯 I’m looking to collaborate on **Android Development**
-
-- 🤝 I’m looking for help with **Android Topic**
+- 🌱 I’m currently learning **ANYTHING**
 
 - 💬 Ask me about **Anything**
 
